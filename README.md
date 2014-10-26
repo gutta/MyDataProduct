@@ -1,7 +1,7 @@
 MyDataProduct
 =============
 
-The data presented here is processed from Medicare data that is available form “https://data.cms.gov/”. The processed data is available on Git Hub.
+The data presented here is processed from Medicare data that is available form “https://data.cms.gov/”. The processed data is available on github (ll.rda).
 
 Using this App.
 
