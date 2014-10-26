@@ -4,7 +4,7 @@ shinyUI(
   fluidPage(
     titlePanel("Over Billing Mulltiple Based on Medicare Payments - Inpatient Care"),
     titlePanel("First column - dollars billed per paid dollar"),
-    p(a("More information here",href="https://github.com/gutta/MyDataProduct/blob/master/README.md", target="_blank")), 
+    p(a("More information here",href="https://github.com/gutta/MyDataProduct", target="_blank")), 
     # Inputs
     fluidRow(
              selectInput("st", 
